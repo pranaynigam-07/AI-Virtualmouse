@@ -1,0 +1,5 @@
+opencv-python
+numpy
+mediapipe
+pyautogui
+#pip install -r requirements.txt for installation
